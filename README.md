@@ -1,7 +1,7 @@
 Welcome, to COPAL-4G8V-1!
 It stands for "Cow Pairing Algorithm for up to Size 4 Groups and 8 Modifiable Variables. Version 1."
 
-You are free to use it! So long as you give me the proper credits!
+You are free to use it! As long as you give me the proper credits!
 
 #Credits ----------------------------------------------------------------------
 
