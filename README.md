@@ -1,11 +1,11 @@
-Welcome, to the "Cow Pairing Algorithm for up to Size 4 Groups and 8 Modifiable Variables. Version 1."
-(COPAL-4G8V-1, in short)
+Welcome, to COPAL-4G8V-1!
+It stands for "Cow Pairing Algorithm for up to Size 4 Groups and 8 Modifiable Variables. Version 1."
 
 You are free to use it! So long as you give me the proper credits!
 
 #Credits ----------------------------------------------------------------------
 
-This code was written in December of 2024, by José Eduardo Nieto Domínguez 
+COPAL-4G8V-1 was written in December of 2024, by José Eduardo Nieto Domínguez 
 (https://orcid.org/0009-0003-9136-1839)
 
 If you require any assistance in running it, or have any questions,
