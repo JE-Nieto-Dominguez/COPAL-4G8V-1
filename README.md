@@ -62,7 +62,7 @@ You can find it within this repository. It has only three relevant variables (be
 3. "LACT" - Replaces "FilterEquals_Y" in the code.
 
 If you wish to use this file to do a trial run of the code, you should:
-1. Un-comment (remove the "#" character before the install.packages lines) lines 34 and 35, so you install the tidyverse and openxlsx libraries.
+1. Un-comment (remove the "#" character before "install.packages") lines 34 and 35, so you install the tidyverse and openxlsx libraries.
 2. Replace the working directory to the one you will be using.
 3. Replace the three mentioned placeholder variables with DIM, MAVG and LACT. You can do that using Ctrl + F.
 4. Set the value in Filter_FilterMinMax_O_LowerLimit (named Filter_DIM_LowerLimit, after the correct replacement) as 55.
