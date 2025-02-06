@@ -4,7 +4,7 @@ It stands for "Cow Pairing Algorithm for up to Size 4 Groups and 8 Modifiable Va
 
 You are free to use it! As long as you give me the proper credits!
 
-# Credits ----------------------------------------------------------------------
+# Credits ----
 
 COPAL-4G8V-1 was written in December of 2024, by José Eduardo Nieto Domínguez 
 (https://orcid.org/0009-0003-9136-1839)
@@ -14,7 +14,7 @@ please email me at: "nietodominguez.je@gmail.com"
 
 I will be happy to help, in spanish or english!
 
-# Brief description ------------------------------------------------------------
+# Brief description ----
 
 My code is extensively commented, explaining each section in further detail.
 
@@ -40,7 +40,7 @@ ideally, also have the same values in up to two variables. When all the cows are
 6. Creates csv and xlsx files, for both DF_TotalPairings and DF_Final, and saves them on the working directory.
 7. Prints an "All done!" confirmation message.
 
-# General considerations ------------------------------------------------------------
+# General considerations ----
 
 1. You need the tidyverse and openxlsx libraries. The code has comments on how to install them. 
 2. The code uses placeholder names for all its variables (it is explained in the "Variables modifiable at the user's discretion" section).
@@ -55,7 +55,7 @@ ideally, also have the same values in up to two variables. When all the cows are
 11. This also happens when you re-run the code.
 12. You can, of course, change the name of the file used to create DF_Main. "Base_Original_Vacas.csv" es merely an example.
 
-# Example file: "Base_Original_Vacas.csv" ------------------------------------------
+# Example file: "Base_Original_Vacas.csv" ----
 
 You can find it within this repository. It has only three relevant variables (besides ID), which are expected to be the replacements of:
 1. "DIM" - Replaces "FilterMinMax_O" in the code.
