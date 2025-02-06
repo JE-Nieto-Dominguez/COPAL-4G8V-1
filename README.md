@@ -42,7 +42,7 @@ ideally, also have the same values in up to two variables. When all the cows are
 
 # General considerations ------------------------------------------------------------
 
-1. You need the tidyverse and openxlsx libraries to work properly. The code has comments on how to install them. 
+1. You need the tidyverse and openxlsx libraries. The code has comments on how to install them. 
 2. The code uses placeholder names for all its variables (it is explained in the "Variables modifiable at the user's discretion" section).
 3. You might have to replace those names (using Ctrl + F).
 4. IN YOUR ORIGINAL FILE (in this case, "Base_Original_Vacas.csv", YOU MUST HAVE ALL THE VARIABLES CONSIDERED IN THIS CODE, AND THEIR NAMES MUST BE EXACTLY THE SAME -- whether you renamed the placeholders or not --. If that is not the case, then the code will not work.
@@ -51,7 +51,7 @@ ideally, also have the same values in up to two variables. When all the cows are
 7. The code only works with GroupSizeWanted 2, 3 and 4. If you save any other number as that object, the code will not work.
 8. The code only works when the value saved as PairingsChosen is smaller than the total amount of observations in the DF_TotalPairings data frame. Because of that, it is adviced that you set that value as low as possible at first, and then tweak it and re-run the code as many times as you need it.
 9. This code's objective is to save you time when pairing cows, but you first have to know what you want, what you are doing, and modify the variables and values you need! It does not read minds!
-10. If you have any existing csv or xlsx file named "DF_Final", or "DF_TotalPairings" in your working directory, you should delete them, save them somewhere else, or rename them. Otherwise, the code will not save the files created when you run it.
+10. If you have any existing csv or xlsx files named "DF_Final", or "DF_TotalPairings" in your working directory, you should delete them, save them somewhere else, or rename them. Otherwise, the code will not save the files created when you run it.
 11. This also happens when you re-run the code.
 12. You can, of course, change the name of the file used to create DF_Main. "Base_Original_Vacas.csv" es merely an example.
 
